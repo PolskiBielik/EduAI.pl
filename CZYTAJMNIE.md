@@ -20,3 +20,6 @@ Do tego musiałby być mocno moderowany i odpowiedni dla dzieci i młodzieży
 ** Agent Progresu ** - to o czym Domi wspominał, oprócz predyspozycji ucznia, można by przechowywać i uaktualniać na jakim obecnie poziomie jest uczeń + z czym radzi sobie gorzej, dzięki czemu czat mógłby 
 nakierowywać pytania na podniesienie wiedzy z konkretnego zagadnienia - i tutaj znów ministerstwo mogło by sie wykazać i stworzyć oficjalne zunifikowane progi wiedzy na podstawie programu nauczania, wtedy to już 
 prosta ścieżka w profilu ucznia przypisujemy mu punkty/ocene
+
+![name](obrazki/architektura.webp)
+
